@@ -1,0 +1,4 @@
+100|111|aaa|aaa|Pendiente|2|B2|25|Aeropuerto Jorge Chavez|Plaza San Miguel
+101|222|bbb|bbb|Pagado|1|F2|60|Mega Plaza|Aeropuerto Jorge Chavez
+102|333|ccc|ccc|Pendiente|1|E4|30|Municipalidad de Los Olivos|Campo de Marte
+103|444|ddd|ddd|Pagado|1|C2|30|Municipalidad de Los Olivos|Plaza Norte
